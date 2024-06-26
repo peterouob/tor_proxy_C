@@ -8,6 +8,8 @@
 
 ### PROXY SERVER IS OPEND ON 127.0.0.1 9050
 
+### CHECK THE IP `host www.networktechnology.org`
+
 ---
 
 ## HOW TO USE ?
